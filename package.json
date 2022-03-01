@@ -1,0 +1,9 @@
+{
+  "name": "snippets",
+  "version": "0.0.1",
+  "description": "snippets",
+  "main": "index.js",
+  "repository": "git@github.com:xyuanbuilds/vs-snippets.git",
+  "author": "折木 <1076849402@qq.com>",
+  "license": "MIT"
+}
